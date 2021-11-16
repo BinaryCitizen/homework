@@ -1,0 +1,12 @@
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\bin\Debug\WindowsFormsApp_Dyakonenko.exe.config
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\bin\Debug\WindowsFormsApp_Dyakonenko.exe
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\bin\Debug\WindowsFormsApp_Dyakonenko.pdb
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.Form1.resources
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.exe
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.pdb
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.Form2.resources
+D:\Дьяконенко 31КС-19\WindowsFormsApp_Dyakonenko\WindowsFormsApp_Dyakonenko\obj\Debug\WindowsFormsApp_Dyakonenko.loginForm.resources
