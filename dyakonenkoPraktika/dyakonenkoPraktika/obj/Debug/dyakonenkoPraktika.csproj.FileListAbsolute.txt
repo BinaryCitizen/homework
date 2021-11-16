@@ -1,0 +1,11 @@
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.Form1.resources
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.Form2.resources
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\bin\Debug\dyakonenkoPraktika.exe.config
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\bin\Debug\dyakonenkoPraktika.exe
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\bin\Debug\dyakonenkoPraktika.pdb
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.exe
+D:\Дьяконенко 31КС-19\dyakonenkoPraktika\dyakonenkoPraktika\obj\Debug\dyakonenkoPraktika.pdb
