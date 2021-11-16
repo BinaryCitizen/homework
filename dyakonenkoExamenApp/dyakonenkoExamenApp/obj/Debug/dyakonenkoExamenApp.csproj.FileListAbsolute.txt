@@ -1,0 +1,14 @@
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\bin\Debug\dyakonenkoExamenApp.exe.config
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\bin\Debug\dyakonenkoExamenApp.exe
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\bin\Debug\dyakonenkoExamenApp.pdb
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.Form1.resources
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.exe
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.pdb
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.Form2.resources
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.Form3.resources
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.Form4.resources
+D:\Дьяконенко 31КС-19\dyakonenkoExamenApp\dyakonenkoExamenApp\obj\Debug\dyakonenkoExamenApp.Form5.resources
