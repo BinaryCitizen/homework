@@ -1,0 +1,10 @@
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\bin\Debug\DyakonenoAvtomobil.exe.config
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\bin\Debug\DyakonenoAvtomobil.exe
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\bin\Debug\DyakonenoAvtomobil.pdb
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.Form1.resources
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.exe
+D:\Дьяконенко 31КС-19\DyakonenoAvtomobil\DyakonenoAvtomobil\obj\Debug\DyakonenoAvtomobil.pdb
