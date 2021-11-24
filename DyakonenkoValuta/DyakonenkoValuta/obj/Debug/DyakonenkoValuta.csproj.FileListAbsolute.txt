@@ -1,0 +1,10 @@
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\bin\Debug\DyakonenkoValuta.exe.config
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\bin\Debug\DyakonenkoValuta.exe
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\bin\Debug\DyakonenkoValuta.pdb
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.Form1.resources
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.exe
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.pdb
+D:\Дьяконенко 31КС-19\DyakonenkoValuta\DyakonenkoValuta\obj\Debug\DyakonenkoValuta.csprojAssemblyReference.cache
