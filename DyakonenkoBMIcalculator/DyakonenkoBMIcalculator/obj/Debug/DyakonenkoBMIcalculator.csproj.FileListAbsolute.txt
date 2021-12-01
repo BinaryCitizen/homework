@@ -1,0 +1,10 @@
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\bin\Debug\DyakonenkoBMIcalculator.exe.config
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\bin\Debug\DyakonenkoBMIcalculator.exe
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\bin\Debug\DyakonenkoBMIcalculator.pdb
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.Form1.resources
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.exe
+D:\Дьяконенко 31КС-19\DyakonenkoBMIcalculator\DyakonenkoBMIcalculator\obj\Debug\DyakonenkoBMIcalculator.pdb
