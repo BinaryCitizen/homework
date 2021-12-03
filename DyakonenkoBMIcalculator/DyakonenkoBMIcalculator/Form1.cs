@@ -59,30 +59,59 @@ namespace DyakonenkoBMIcalculator
                 mass1 = Convert.ToDouble(mass.Text);
                 height1 = Convert.ToDouble(height.Text) / 100;
                 resultat = mass1 / (height1 * height1);
+                trackBar1.Value = Convert.ToInt32(resultat);
+
 
                 if (resultat < 18.5)
                 {
                     bar = 10;
                     button3.Text = "Недостаточный";
-                    pictureBox5.ImageLocation = "https://cdn3.iconfinder.com/data/icons/destitution/500/destitution-famine-starving_6-512.png";
+                    if (selected_Man)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn3.iconfinder.com/data/icons/destitution/500/destitution-famine-starving_6-512.png";
+                    }
+                    else if (selected_Woman)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn0.iconfinder.com/data/icons/skinny-weak-man-life/227/guy-life-007-512.png";
+                    }
                 }
                 else if ((resultat > 18.5) && (resultat < 24.9 ))
                 {
                     bar = 30;
                     button3.Text = "Здоровый";
-                    pictureBox5.ImageLocation = "https://cdn3.iconfinder.com/data/icons/body-size-process/246/body-size-process-008-512.png";
+                    if (selected_Man)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn3.iconfinder.com/data/icons/body-size-process/246/body-size-process-008-512.png";
+                    }
+                    else if (selected_Woman)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/491/aiga_toilet_women-512.png";
+                    }
                 }
                 else if ((resultat > 25) && (resultat < 29.9))
                 {
                     bar = 70;
                     button3.Text = "Избыточный";
-                    pictureBox5.ImageLocation = "https://cdn0.iconfinder.com/data/icons/human-immune-system/198/normal-immune-vaccinated-003-512.png";
+                    if (selected_Man)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn0.iconfinder.com/data/icons/human-immune-system/198/normal-immune-vaccinated-003-512.png";
+                    }
+                    else if (selected_Woman)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn2.iconfinder.com/data/icons/fat-man-woman-kid-obesity-overweight/238/fat-obesity-005-512.png";
+                    }
                 }
                 else if (resultat > 30)
                 {
                     bar = 90;
                     button3.Text = "Ожирение";
-                    pictureBox5.ImageLocation = "https://cdn2.iconfinder.com/data/icons/fat-man/271/fat-man-action-1002-512.png";
+                    if (selected_Man)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn2.iconfinder.com/data/icons/fat-man/271/fat-man-action-1002-512.png";
+                    }else if (selected_Woman)
+                    {
+                        pictureBox5.ImageLocation = "https://cdn3.iconfinder.com/data/icons/slimming-center-treatment/219/obesity-woman-007-512.png";
+                    }
                 }
 
                 onePercent = (maxX - standartX) / 100;

@@ -95,5 +95,17 @@
   <ItemGroup>
     <None Include="Resources\211614_down_b_arrow_icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3289555_individual_people_person_woman_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4879904_fashion_female_girl_human_people_icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

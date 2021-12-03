@@ -121,16 +121,28 @@
   <data name="134196_room_toilet_ladies_woman_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\134196_room_toilet_ladies_woman_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="211857_man_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\211857_man_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="211857_man_icon (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\211857_man_icon (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="134196_room_toilet_ladies_woman_icon (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\134196_room_toilet_ladies_woman_icon (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="211857_man_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\211857_man_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="211614_down_b_arrow_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\211614_down_b_arrow_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\33.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="43" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\43.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3289555_individual_people_person_woman_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3289555_individual_people_person_woman_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4879904_fashion_female_girl_human_people_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4879904_fashion_female_girl_human_people_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
