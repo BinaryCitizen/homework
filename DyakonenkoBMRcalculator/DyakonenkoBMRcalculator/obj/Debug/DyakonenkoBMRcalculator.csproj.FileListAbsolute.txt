@@ -1,0 +1,10 @@
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\bin\Debug\DyakonenkoBMRcalculator.exe.config
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\bin\Debug\DyakonenkoBMRcalculator.exe
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\bin\Debug\DyakonenkoBMRcalculator.pdb
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.Form1.resources
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.exe
+D:\Дьяконенко 31КС-19\DyakonenkoBMRcalculator\DyakonenkoBMRcalculator\obj\Debug\DyakonenkoBMRcalculator.pdb
