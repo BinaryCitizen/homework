@@ -1,0 +1,10 @@
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\bin\Debug\dyakonenkoPoezd.exe.config
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\bin\Debug\dyakonenkoPoezd.exe
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\bin\Debug\dyakonenkoPoezd.pdb
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.Form1.resources
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.exe
+D:\Дьяконенко 31КС-19\dyakonenkoPoezd\dyakonenkoPoezd\obj\Debug\dyakonenkoPoezd.pdb
