@@ -1,0 +1,10 @@
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\bin\Debug\DyakonenkoMap.exe.config
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\bin\Debug\DyakonenkoMap.exe
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\bin\Debug\DyakonenkoMap.pdb
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.csprojAssemblyReference.cache
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.Form1.resources
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.Properties.Resources.resources
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.csproj.GenerateResource.cache
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.csproj.CoreCompileInputs.cache
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.exe
+D:\Дьяконенко 31КС-19\DyakonenkoMap\DyakonenkoMap\obj\Debug\DyakonenkoMap.pdb
